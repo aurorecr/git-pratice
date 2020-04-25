@@ -1,3 +1,4 @@
 Name: Aurore
 Age: 37
 Favorite Color: Red
+Born in : France

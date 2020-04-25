@@ -1,0 +1,3 @@
+Name: Aurore
+Age: 37
+Favorite Color: Red
